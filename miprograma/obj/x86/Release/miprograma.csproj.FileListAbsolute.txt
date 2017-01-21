@@ -1,0 +1,5 @@
+C:\Users\ArnAu\Desktop\ejerEntrev\miprograma\miprograma\bin\Release\miprograma.exe
+C:\Users\ArnAu\Desktop\ejerEntrev\miprograma\miprograma\bin\Release\miprograma.pdb
+C:\Users\ArnAu\Desktop\ejerEntrev\miprograma\miprograma\obj\x86\Release\miprograma.exe
+C:\Users\ArnAu\Desktop\ejerEntrev\miprograma\miprograma\obj\x86\Release\miprograma.pdb
+C:\Users\ArnAu\Desktop\ejerEntrev\miprograma\miprograma\obj\x86\Release\miprograma.csprojResolveAssemblyReference.cache

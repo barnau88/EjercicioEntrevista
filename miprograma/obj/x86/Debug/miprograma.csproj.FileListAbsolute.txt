@@ -1,0 +1,4 @@
+C:\Users\ArnAu\Desktop\ejerEntrev\miprograma\miprograma\bin\Debug\miprograma.exe
+C:\Users\ArnAu\Desktop\ejerEntrev\miprograma\miprograma\bin\Debug\miprograma.pdb
+C:\Users\ArnAu\Desktop\ejerEntrev\miprograma\miprograma\obj\x86\Debug\miprograma.exe
+C:\Users\ArnAu\Desktop\ejerEntrev\miprograma\miprograma\obj\x86\Debug\miprograma.pdb
